@@ -10,7 +10,7 @@ Randomized Quicksort and a Hash Table with Chaining, implemented from scratch in
 | `hash_table.py` | Chaining hash table with universal hashing and dynamic resizing |
 | `benchmark.py` | Runs all timing experiments for both parts |
 | `results.txt` | Raw output from the benchmark run used in the report |
-| `results.xlsx` | Benchmark results in Excel, one tab per part |
+| `results.xlsx` | Benchmark results in Excel, one tab per each part |
 | `REPORT.md` | Theoretical analysis, empirical results, and discussion |
 
 ## How to run
